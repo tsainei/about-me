@@ -11,9 +11,9 @@
 
 - 🌱 I’m currently have fun learning **Ruby**
 
-- 📫 How to reach me **hi@tsainei.com**
+- 📫 You can reach me through **hi@tsainei.com**
 
-- ❤️ **I like reading, dancing, doing yoga and listening to audiobooks** I'm a big fan of The Dark Tower.
+- ❤️ **I like reading, dancing, doing yoga and listening to audiobooks.** I'm a big fan of The Dark Tower.
 
 ## 🚀 Languages and Tools
 
@@ -52,8 +52,8 @@
 
 <br/>
 
-[7 way weather app](https://tsainei.github.io/vue-7-day-weather-app/) -[Github Repo](https://github.com/tsainei/vue-7-day-weather-app)
-[todolist](https://tsainei.github.io/todo-list/) -[Github Repo](https://github.com/tsainei/todo-list)
+- [7 way weather app](https://tsainei.github.io/vue-7-day-weather-app/) -[Github Repo](https://github.com/tsainei/vue-7-day-weather-app)
+- [todolist](https://tsainei.github.io/todo-list/) -[Github Repo](https://github.com/tsainei/todo-list)
 
 <br/>
 
@@ -61,13 +61,13 @@
 
 <br/>
 
-[Trivia flashcards](https://portfolio.tsainei.com/100DaysOfCode/Day15_trivia_flashcards/) -[Github Repo](https://github.com/tsainei/portfolio/tree/main/100DaysOfCode/Day15_trivia_flashcards)
-[todolist](https://react-todolist-tsainei.netlify.app/) - [Github Repo](https://github.com/tsainei/react-todolist)
-[random Spanish quote](https://react-random-spanish-quote-tsainei.netlify.app/) - [Github Repo](https://github.com/tsainei/react-random-spanish-quote)
-[random recipe](https://react-random-recipe-tsainei.netlify.app/) - [Github Repo](https://github.com/tsainei/react-random-recipe)
-[NASA apod](https://react-nasa-apod-tsainei.netlify.app/) - [Github Repo](https://github.com/tsainei/react-nasa-apod)
-[metronome](https://github.com/tsainei/react-metronome) - [Github Repo](https://github.com/tsainei/react-metronome)
-[roasted chicken restaurant](https://react-roast-chicken-restaurant-tsainei.netlify.app/) - [Github Repo](https://github.com/tsainei/react-roast-chicken-restaurant)
+- [Trivia flashcards](https://portfolio.tsainei.com/100DaysOfCode/Day15_trivia_flashcards/) -[Github Repo](https://github.com/tsainei/portfolio/tree/main/100DaysOfCode/Day15_trivia_flashcards)
+- [todolist](https://react-todolist-tsainei.netlify.app/) - [Github Repo](https://github.com/tsainei/react-todolist)
+- [random Spanish quote](https://react-random-spanish-quote-tsainei.netlify.app/) - [Github Repo](https://github.com/tsainei/react-random-spanish-quote)
+- [random recipe](https://react-random-recipe-tsainei.netlify.app/) - [Github Repo](https://github.com/tsainei/react-random-recipe)
+- [NASA apod](https://react-nasa-apod-tsainei.netlify.app/) - [Github Repo](https://github.com/tsainei/react-nasa-apod)
+- [metronome](https://github.com/tsainei/react-metronome) - [Github Repo](https://github.com/tsainei/react-metronome)
+- [roasted chicken restaurant](https://react-roast-chicken-restaurant-tsainei.netlify.app/) - [Github Repo](https://github.com/tsainei/react-roast-chicken-restaurant)
 
 <br/>
 
@@ -75,12 +75,12 @@
 
 <br/>
 
-Javascript30 is a 30 day Javascript coding challenge made by Wes Bos.
-[Javascript 30 projects](https://portfolio.tsainei.com/js30/2020/11/25/)
-[Background generator](https://portfolio.tsainei.com/100DaysOfCode/Day23_backgroundgenerator/)
-[House selling website](https://portfolio.tsainei.com/100DaysOfCode/Day21_house_sale_website/) with CSS grid
-[Startup Website](https://portfolio.tsainei.com/100DaysOfCode/Day18_startup_website/) with bootstrap
-[Tip calculator](https://portfolio.tsainei.com/100DaysOfCode/Day11_tip_form/)
+
+- [Javascript 30 projects](https://portfolio.tsainei.com/js30/2020/11/25/) Javascript30 is a 30 day Javascript coding challenge made by Wes Bos.
+- [Background generator](https://portfolio.tsainei.com/100DaysOfCode/Day23_backgroundgenerator/)
+- [House selling website](https://portfolio.tsainei.com/100DaysOfCode/Day21_house_sale_website/) with CSS grid
+- [Startup Website](https://portfolio.tsainei.com/100DaysOfCode/Day18_startup_website/) with bootstrap
+- [Tip calculator](https://portfolio.tsainei.com/100DaysOfCode/Day11_tip_form/)
 
 <br/>
 
